@@ -1,1 +1,1 @@
-# Hadoop-Eclipse-Plugins
+# Hadoop Eclipse Plugins
